@@ -1,1 +1,1 @@
-# Dino-Game-using-C-
+# Dino-Game-using-C++
